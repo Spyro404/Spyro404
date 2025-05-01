@@ -4,7 +4,7 @@
 as well as developing any random idea that pops in my head as good practice and experimentation!
 - Female | She/Her
 - 📔 I’m currently studying for my BS in Computer Science, on my sixth year now, even though credit-wise I'm still a Junior since switching majors from Computer Eng.
-- 👓 My skillset includes: Python, SQL, Markdown, HTML, CSS, C++, MATLAB, JavaScript, C, Java, Unix, Perl (By order of skill from best to worst)
+- 👓 My skillset includes: Python, Java, SQL, Markdown, HTML, CSS, C++, MATLAB, JavaScript, C, Unix, Perl (By order of skill from best to worst)
 - 📫 You can reach me at my email posted in my profile, or start a thread in my Discussions for this repo.
 
 <!---
