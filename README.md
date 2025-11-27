@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 👋 I’m @Spyro404, but I go by Spyro, and my actual name is Camille R. 🎊 And I’m interested in Computer Programming, specifically working with Python and Data Science,
+- 👋 I’m @K0I0S-Codes, but I go by K0I0S, and my actual name is Camille R. 🎊 And I’m interested in Computer Programming, specifically working with Python and Data Science,
 as well as developing any random idea that pops in my head as good practice and experimentation!
 - Female | She/Her
 - 📔 I’m currently studying for my BS in Computer Science, on my sixth year now, even though credit-wise I'm still a Junior since switching majors from Computer Eng.
